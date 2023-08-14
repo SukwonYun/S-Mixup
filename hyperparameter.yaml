@@ -1,0 +1,34 @@
+cora:
+  lr: 0.01
+  target_ratio: 0.3
+  edge_ratio: 0.1
+  eta: 0.5
+  mixup_start: 30
+
+citeseer:
+  lr: 0.01
+  target_ratio: 0.2
+  edge_ratio: 0.5
+  eta: 0.7
+  mixup_start: 30
+
+pubmed:
+  lr: 0.05
+  target_ratio: 0.4
+  edge_ratio: 0.5
+  eta: 0.1
+  mixup_start: 30
+
+cs:
+  lr: 0.05
+  target_ratio: 0.5
+  edge_ratio: 0.5
+  eta: 0.5
+  mixup_start: 30
+
+physics:
+  lr: 0.05
+  target_ratio: 0.2
+  edge_ratio: 0.2
+  eta: 0.5
+  mixup_start: 30

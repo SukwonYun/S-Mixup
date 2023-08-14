@@ -1,0 +1,6 @@
+logs/
+data/
+__pycache__/
+models/__pycache__
+misc/__pycache__
+*.py[cod]
